@@ -1,6 +1,6 @@
 var hotel = {
     // Object properties
-    name: 'Clayton',
+    name: 'Goatieezz',
     rooms: 110,
     booked: 25,
     gym: true,
