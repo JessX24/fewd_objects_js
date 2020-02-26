@@ -21,7 +21,7 @@ body {
 
 h2 {
   margin: 1.75em 0 0 0;
-  color: #adffda; 
+  color: #022400; 
   font-weight: normal;}
 
 h2 + p {
@@ -45,8 +45,9 @@ p + h2 {
 /* black bar across the right hand side of the page */
 
 #info {
-  background-color: #1e1b1e;
+  background-color: rgba(115, 115, 115, 0.5);
   color: #fff;
+  border: 5px solid black;
   width: 200px;
   padding: 0 15px;
   text-align: center;
